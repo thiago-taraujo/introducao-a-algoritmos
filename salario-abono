@@ -1,8 +1,6 @@
 programa {
   funcao inicio() {
-    real salario
-    real abono
-    real novoSalario
+    real salario, abono, novoSalario
     escreva("Digite o salário:")
     leia(salario)
     escreva("Digite o abono:")
